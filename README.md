@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm a developer passionate about technology <br>and innovation, with experience in building web applications, <br>databases and agile methodologies. I love exploring new <br>technologies and how they can be integrated to solve <br>real-world problems.
+👋 Hi! I'm a developer passionate about technology and innovation, with experience in building web applications, databases and agile methodologies. I love exploring new technologies and how they can be integrated to solve real-world problems.
 
 
 ## 🌐 Socials:
